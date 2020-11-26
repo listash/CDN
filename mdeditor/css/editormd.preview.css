@@ -3111,7 +3111,7 @@
 }
 
 .editormd-preview-container, .editormd-html-preview {
-  text-align: left;
+  text-align: justify;
   font-size: 14px;
   line-height: 1.6;
   padding: 20px 0 20px 0;
